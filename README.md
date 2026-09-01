@@ -5,7 +5,7 @@ Decentralized voting frameworks engineered for communities establishing decentra
 
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.07;
+pragma solidity ^0.8.10;
 
 contract BaseVotingCore {
     struct Proposal {
